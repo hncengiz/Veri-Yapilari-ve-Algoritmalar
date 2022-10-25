@@ -190,7 +190,8 @@ Insert 7 into the tree as the node.
 **BST Gif**
 #
 
-![](../../../../Downloads/bst.gif.gif)
+![bst](https://user-images.githubusercontent.com/116035329/197865538-dc2bcda3-2032-46da-8fe0-154f1aa39827.gif)
+
 
 #
 
