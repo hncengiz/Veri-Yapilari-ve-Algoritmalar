@@ -14,18 +14,6 @@
 ---------------------------------------------------------------------------------------------------------------
 #
 
-<style>
-    .heatMap {
-        width: 70%;
-        }
-    .heatMap th {
-        background: lightgreen;
-        word-wrap: break-word;
-        text-align: center;
-
-</style>
-
-<div class="heatMap">
 
  | 22 | 27 | 16 | 2 | 18 | 6 | 
  |----|----|----|---|----|---| 
@@ -37,16 +25,6 @@
 
 Initially, the sorted sub-array contains the first element in the array. Insert 27 into the sub-array.
 #
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightgreen;
-        word-wrap: break-word;
-    }
-
-</style>
 
   
  | 22 | 27 | 16 | 2 | 18 | 6 | 
@@ -57,16 +35,6 @@ Initially, the sorted sub-array contains the first element in the array. Insert 
 #
 The sorted sub-array is {22, 27}. Insert 16 into the sub-array.
 #
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightgreen;
-        word-wrap: break-word;
-    }
-
-</style>
 
   
  | 16 | 22 | 27 | 2 | 18 | 6 | 
@@ -77,16 +45,6 @@ The sorted sub-array is {22, 27}. Insert 16 into the sub-array.
 #
 The sorted sub-array is {16, 22, 27}. Insert 2 into the sub-array.
 #
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightgreen;
-        word-wrap: break-word;
-    }
-
-</style>
 
   
  | 2 | 16 | 22 | 27 | 18 | 6 | 
@@ -96,16 +54,6 @@ The sorted sub-array is {16, 22, 27}. Insert 2 into the sub-array.
 #
 The sorted sub-array is {2, 16, 22, 27,}. Insert 18 into the sub-array.
 #
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightgreen;
-        word-wrap: break-word;
-    }
-
-</style>
 
   
  | 2 | 16 | 18 | 22 | 27 | 6 | 
@@ -116,17 +64,6 @@ The sorted sub-array is {2, 16, 22, 27,}. Insert 18 into the sub-array.
 #
 The sorted sub-array is {2, 16, 18, 22, 27}. Insert 6 into the sub-array.
 #
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightgreen;
-        word-wrap: break-word;
-    }
-
-</style>
-
   
  | 2 | 6 | 16 | 18 | 22 | 27 | 
  |----|----|----|---|----|---| 
@@ -136,17 +73,6 @@ The sorted sub-array is {2, 16, 18, 22, 27}. Insert 6 into the sub-array.
 #
 The entire array is now sorted.
 #
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightgreen;
-        word-wrap: break-word;
-    }
-
-</style>
-
   
  | 2 | 6 | 16 | 18 | 22 | 27 | 
  |----|----|----|---|----|---| 
@@ -178,17 +104,6 @@ Avarege case since element '18' is found in the middle of the array after sortin
 ------------------------------------------------------
 #
 
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightgblue;
-        word-wrap: break-word;
-    }
-
-</style>
-
   
  | 7 | 3 | 5 | 8 | 2 | 9 | 4 | 15 | 6 | 
  |---|---|---|---|---|---|---|----|---| 
@@ -200,17 +115,6 @@ Avarege case since element '18' is found in the middle of the array after sortin
 Initially, the sorted sub-array contains the first element in the array. Insert 3 into the sub-array.
 
 #
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightblue;
-        word-wrap: break-word;
-    }
-
-</style>
-
   
  | 3 | 7 | 5 | 8 | 2 | 9 | 4 | 15 | 6 | 
  |---|---|---|---|---|---|---|----|---| 
@@ -222,17 +126,6 @@ Initially, the sorted sub-array contains the first element in the array. Insert 
 The sorted sub-array is {3, 7}. Insert 5 into the sub-array.
 
 #
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightblue;
-        word-wrap: break-word;
-    }
-
-</style>
-
   
  | 3 | 5 | 7 | 8 | 2 | 9 | 4 | 15 | 6 | 
  |---|---|---|---|---|---|---|----|---|
@@ -243,16 +136,6 @@ The sorted sub-array is {3, 7}. Insert 5 into the sub-array.
 The sorted sub-array is {3, 5, 7}. Insert 8 into the sub-array. No need to swap.
 
 #
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightblue;
-        word-wrap: break-word;
-    }
-
-</style>
 
   
  | 3 | 5 | 7 | 8 | 2 | 9 | 4 | 15 | 6 | 
@@ -264,16 +147,6 @@ The sorted sub-array is {3, 5, 7}. Insert 8 into the sub-array. No need to swap.
 
 The sorted sub-array is {3, 5, 7,8}. Insert 2 into the sub-array.
 #
-
-<style>
-    .heatMap {
-        width: 70%;
-    }
-    .heatMap th {
-        background: lightblue;
-    }
-
-</style>
 
   
  | 2 | 3 | 5 | 7 | 8 | 9 | 4 | 15 | 6 | 
