@@ -55,7 +55,7 @@ Merge sort is a divide and conquer algorithm. It divides input array in two halv
 **As a result, it looks like as follows;**
 #
 # 
-![](../../../../Desktop/merge%20sort.png)
+![merge sort](https://user-images.githubusercontent.com/116035329/197866786-2ddf7af3-1436-49c4-8868-7060ace85365.png)
 
 #
 #
