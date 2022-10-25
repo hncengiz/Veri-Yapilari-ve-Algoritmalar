@@ -170,7 +170,8 @@ Avarege case since element '18' is found in the middle of the array after sortin
 ### Gif Link 
 #
 
-![](insert%20sorting.gif)
+![insert sorting](https://user-images.githubusercontent.com/116035329/197865998-994edda2-1d4c-4ebf-8297-a1cb86047ecd.gif)
+
 
 #
 ####  <span style="color: red"> 2. Show how to sort the first four step of the array { 7, 3, 5, 8, 2, 9, 4, 15, 6 } using insertion sort </span>
